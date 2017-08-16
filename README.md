@@ -9,6 +9,6 @@ Resources:
 
 Bill of Materials: https://goo.gl/a6sesH
 
-Original Cad Files: https://goo.gl/SngR6p
+Original Cad Files: https://goo.gl/RGmCqv
 
 Firmware: https://goo.gl/nxUFCW
